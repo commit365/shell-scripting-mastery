@@ -306,3 +306,5 @@ echo ${#my_assoc_array[@]}
 10. Describe a real-world scenario where using an associative array would be more appropriate than an indexed array.
 
 This lesson covers the fundamental concepts of indexed and associative arrays in shell scripting, including creation, manipulation, and common operations. The exercises and review questions will help reinforce these concepts and encourage practical application of the knowledge gained.
+
+[Next: 08. String Manipulation](./08_string_manipulation.md)

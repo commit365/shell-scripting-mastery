@@ -295,3 +295,5 @@ echo "Hello" | tee output.txt
 10. Explain how you would implement a simple logging system in a shell script, writing different types of messages to different output streams.
 
 This lesson covers the fundamental concepts of input and output in shell scripting, including reading user input, handling command-line arguments, working with standard streams, and using various redirection and piping techniques. The exercises and review questions will help reinforce these concepts and encourage practical application of the knowledge gained.
+
+[Next: 05. Control Structures](./05_control_structures.md)

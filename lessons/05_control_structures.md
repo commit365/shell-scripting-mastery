@@ -363,3 +363,5 @@ esac
 10. How can you use control structures to implement error handling and input validation in your scripts?
 
 This lesson covers the fundamental concepts of control structures in shell scripting, including conditional statements, loops, and case statements. The exercises and review questions will help reinforce these concepts and encourage practical application of the knowledge gained.
+
+[Next: 06. Functions](./06_functions.md)

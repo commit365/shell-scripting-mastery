@@ -302,3 +302,5 @@ Group commands using parentheses or curly braces:
 10. Describe the differences between single quotes, double quotes, and escaping characters in shell scripting.
 
 This lesson covers the fundamental concepts of shell scripting, including script creation and execution, variable usage, and command substitution. The exercises and review questions will help reinforce these concepts and encourage practical application of the knowledge gained.
+
+[Next: 04. Input and Output](./04_input_and_output.md)

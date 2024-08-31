@@ -287,3 +287,5 @@ This is useful when you want to use functions in subshells or child scripts.
 10. Describe a scenario where recursion in shell functions might be useful, and explain how you would implement it.
 
 This lesson covers the fundamental concepts of functions in shell scripting, including function definition, parameters, return values, and variable scope. The exercises and review questions will help reinforce these concepts and encourage practical application of the knowledge gained.
+
+[Next: 07. Arrays and Associative Arrays](./07_arrays_and_associative_arrays.md)

@@ -283,3 +283,5 @@ find . -type f -size +1M  # Find files larger than 1 MB
 10. How would you find all files modified in the last 24 hours in your home directory and its subdirectories?
 
 This lesson provides a thorough introduction to basic command line usage, covering file system navigation, file and directory operations, and methods for viewing and editing files. The exercises and review questions will help reinforce these fundamental skills, which are essential for effective shell scripting and system administration.
+
+[Next: 03. Shell Scripting Fundamentals](./03_shell_scripting_fundamentals.md)

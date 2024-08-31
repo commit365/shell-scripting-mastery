@@ -222,3 +222,5 @@ git commit -m "Add first shell script"
 10. What are some best practices for organizing and maintaining shell scripts?
 
 This introduction provides a solid foundation for understanding shells, their importance, and how to set up a productive environment for shell scripting. The exercises and review questions will help reinforce the concepts and encourage hands-on practice.
+
+[Next: 02. Basic Command Line Usage](./02_basic_command_line_usage.md)

@@ -112,7 +112,7 @@ This course covers everything from basic command-line usage to advanced scriptin
     - Shell scripting in DevOps workflows
 
 22. [Further Learning and Resources](lessons/22_further_learning_and_resources.md)
-    - Recommended books and online resources
+    - Recommended online resources
     - Shell scripting communities and forums
     - Keeping up with shell scripting developments
 

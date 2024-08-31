@@ -1,6 +1,6 @@
 # Shell Scripting Mastery
 
-Welcome to the Shell Scripting Mastery course! This comprehensive, text-based course is designed to guide you from beginner to expert in shell scripting, focusing on bash and zsh. Whether you're a complete novice or looking to sharpen your skills, this course offers a structured path to mastering shell scripting.
+Welcome to the Shell Scripting Mastery course! This comprehensive course is designed to guide you from beginner to expert in shell scripting, focusing on bash and zsh. Whether you're a complete novice or looking to sharpen your skills, this course offers a structured path to mastering shell scripting.
 
 ## Course Description
 
